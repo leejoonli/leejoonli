@@ -1,5 +1,5 @@
 ## Hi there 👋 I'm Jeremiah Lee
-I'm a Software Engineer and Doting Cat Uncle
+Technology is ever-growing and advancing in our world. I strive to incorporate accessibility, reliability, and improved user experience.
 <!--
 **leejoonli/leejoonli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
