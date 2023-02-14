@@ -23,22 +23,6 @@ Here are some ideas to get you started:
 
 ### Technologies Used
 
-#### Languages
-- JavaScript
-- Typescript
-- C
-- C++
-- C#
-- Python
-- YAML
-
-#### Frameworks
-- React
-- MongoDB
-- Express
-- PostgreSQL
-- Django
-
-#### Other
-- HTML
-- CSS
+| Languages | Frameworks | Other |
+| --------- | ---------- | ----- |
+| JavaScript, Typescript, C, C++, C#, Python, YAML | React, MongoDB, Express, PostgreSQL, Django | HTML, CSS, Docker, Kubernetes |
