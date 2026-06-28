@@ -18,11 +18,3 @@ Here are some ideas to get you started:
 
 | Source | Link |
 | ------ | ---- |
-| LinkedIn | https://www.linkedin.com/in/jhwlee/ |
-| Portfolio | https://jhwlee.netlify.app/ |
-
-### Technologies Used
-
-| Languages | Frameworks | Other |
-| --------- | ---------- | ----- |
-| JavaScript, Typescript, C, C++, C#, Python, YAML | React, MongoDB, Express, PostgreSQL, Django | HTML, CSS, Docker, Kubernetes |
